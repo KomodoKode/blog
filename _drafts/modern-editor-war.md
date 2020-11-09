@@ -32,7 +32,7 @@ Note: I'm not going to compare the proprietary editor (Sublime Text) in this blo
 
 Vim is also built-in the on Mac. Type `vim` or `vi` in your command line and a vim editor should appear.'
 
-![Vim on KomodoKode's Mac](../assets/images/mac-terminal-vim)
+![Vim on KomodoKode's Mac](../assets/images/mac-terminal-vim.png)
 
 <p align="center">Vim on the Mac Terminal</p>
 
